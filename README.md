@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pedrobergaminisaka@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://www.linkedin.com/in/sakamotobergamini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/alyson-fernando-de-araujo-bergantini-22739920a" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sakamotobergamini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sakamotobergamini" height="30" width="40" /></a>
